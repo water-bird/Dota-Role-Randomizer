@@ -34,7 +34,7 @@ heroes = ['Abaddon', 'Alchemist', 'Ancient Apparition',
             'Ursa', 'Vengeful Spirit', 'Venomancer',
             'Viper', 'Visage', 'Warlock',
             'Weaver', 'Windranger', 'Winter Wyvern',
-            'Witch Doctor', 'Wraith King', 'Zues'
+            'Witch Doctor', 'Wraith King', 'Zeus'
             ]
 
 offlane = ['Abaddon', 'Axe', 'Batrider',
@@ -61,7 +61,7 @@ mid = ['Alchemist', 'Arc Warden', 'Brewmaster',
             'Pugna', 'Queen of Pain', 'Razor',
             'Shadow Fiend', 'Sniper', 'Storm Spirit',
             'Templar Assasin', 'Ursa', 'Venomancer',
-            'Windranger', 'Zues'
+            'Windranger', 'Zeus'
             ]
 
 carry = ['Alchemist', 'Anti Mage', 'Bloodseeker',
